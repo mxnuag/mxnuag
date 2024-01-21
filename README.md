@@ -1,5 +1,5 @@
 
-![header](./header.png)
+![header](./"C:\Users\mohit\OneDrive\Desktop\header.png")
 
 <h1 align="center">Hi 👋, I'm Manu Agarwal</h1>
 <h3 align="center">An Aspiring software developer from India, passionate about crafting innovative solutions and contributing to the world of technology. 🚀</h3>
