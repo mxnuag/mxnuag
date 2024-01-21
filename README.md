@@ -1,5 +1,5 @@
 
-[![MasterHead][github-header-image](https://github.com/mxnuag/mxnuag/assets/95706243/a9e51cba-7564-4877-baca-a195a4afca08)]
+![Header](https://github.com/mxnuag/mxnuag/assets/95706243/a9e51cba-7564-4877-baca-a195a4afca08)
 
 
 <h1 align="center">Hi 👋, I'm Manu Agarwal</h1>
