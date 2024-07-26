@@ -1,7 +1,4 @@
 
-![Header](https://github.com/mxnuag/mxnuag/blob/main/github-header-image.png)
-
-
 <h1 align="center">Hi 👋, I'm Manu Agarwal</h1>
 <h3 align="center">An Aspiring software developer from India, passionate about crafting innovative solutions and contributing to the world of technology. 🚀</h3>
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
