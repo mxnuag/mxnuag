@@ -1,5 +1,5 @@
 
-![Header](file:///C:/Users/mohit/OneDrive/Desktop/github-header-image.png)
+![Header](https://github.com/mxnuag/mxnuag/blob/main/github-header-image.png)
 
 
 <h1 align="center">Hi 👋, I'm Manu Agarwal</h1>
