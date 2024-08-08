@@ -29,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mxnuag&show_icons=true&locale=en" alt="mxnuag" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mxnuag&" alt="mxnuag" /></p>
+
+##snake eating my graph
+
+![snake gif](https://github.com/mxnuag/mxnuag/blob/output/github-contribution-grid-snake.gif)
