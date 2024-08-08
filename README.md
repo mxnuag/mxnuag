@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manu-agarwal-331a7b226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manu-agarwal-331a7b226/" height="30" width="40" /></a>
 <a href="https://instagram.com/mxnu_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mxnu_30" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/manuagag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/manuagag/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/manuag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/manuag/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
