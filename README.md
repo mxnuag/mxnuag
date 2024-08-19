@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **refining my skills in areas of software programming and development**
 
-- 🌱 I’m currently learning **MongoDB and React**
+- 🌱 I’m currently learning **AWS and Cloud technology**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
