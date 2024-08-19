@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manu Agarwal</h1>
-<h3 align="center">An Aspiring software developer from India, passionate about crafting innovative solutions and contributing to the world of technology. 🚀</h3>
+<h3 align="center">An Aspiring software developer, passionate about crafting innovative solutions and contributing to the world of technology. 🚀</h3>
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxnuag&label=Profile%20views&color=0e75b6&style=flat" alt="mxnuag" /> </p>
 
